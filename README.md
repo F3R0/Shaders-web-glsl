@@ -10,4 +10,4 @@ almost compitable with Shader Toy website. For details see the [Shader Toy
 extension github repository.](https://github.com/stevensona/shader-toy)
 
 
-[Twitter](https://twitter.com/ferotanman) - [Website]"Under construction"
+[Twitter](https://twitter.com/ferotanman) - [Website](https://www.ferhattanman.com/)
